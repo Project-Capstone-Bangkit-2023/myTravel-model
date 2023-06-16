@@ -12,6 +12,12 @@ To run the notebook of our recommendation model run the following command:
 ```bash
 git clone https://github.com/Project-Capstone-Bangkit-2023/myTravel-model.git
 ```
+
+and then install all the required package to run the notebook,
+```bash
+pip install -r requirements.txt
+```
+
 and open the `recommender.ipynb`.
 
 ## Recommendation Model
